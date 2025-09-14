@@ -1,0 +1,51 @@
+# Visual Studio / Build artifacts
+.vs/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+Win32/
+x64/
+*.obj
+*.iobj
+*.ipdb
+*.pdb
+*.exe
+*.dll
+*.lib
+*.exp
+*.ilk
+*.log
+*.tlog/
+*.cache
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb
+*.sdf
+*.opensdf
+*.sqlite
+ipch/
+*.pch
+*.tmp
+*.log
+*.lastbuildstate
+*.dsstore
+
+# Generated code analysis / reports
+*.sarif
+*.xml
+
+# OS Files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Archives
+*.zip
+*.7z
+*.tar
+*.gz
+
+# Other
+*.orig
